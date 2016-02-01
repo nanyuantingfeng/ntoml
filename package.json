@@ -1,0 +1,23 @@
+{
+  "name": "ntoml",
+  "version": "1.0.0",
+  "description": "JavaScript Library For TOML Parse & Stringify",
+  "main": "index.js",
+  "keywords": [
+    "toml",
+    "stringify",
+    "parse"
+  ],
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanyuantingfeng/ntoml.git"
+  },
+  "dependencies": {
+    "toml": "^2.3.0",
+    "tomlifer": "*"
+  },
+  "author": "nanyuantingfeng",
+  "license": "MIT"
+}
